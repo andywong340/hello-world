@@ -1,2 +1,11 @@
-# hello-world
-andy学习GitHub
+# andy学习GitHub
+## 课程主要内容有
+1. 课程综述
+2. 什么是Git / GitHub
+3. 国内畅联GitHub
+4. GitHub网站基础介绍
+5. 发现工具寻找灵感
+6. GitHub创建账号
+7. 装修GitHub主页
+8. 创建一个自己的仓库，选择开源协议
+   
