@@ -1,0 +1,89 @@
+Resume
+Name: Wang Hao
+Gender:  Male | Age：45 （Born in 1981） | Location: Tianjin,China | Mobile: +86 18722581038 | Email: andy340@sina.com
+Personal Information
+Education: Tianjin University of Finance and Economics |Major: Information Management and Information System |Bachelor’s Degree | Graduated in 2005
+Political Status: Member of the Communist Party of China
+Language Skills:
+English: Fluent
+Japanese: Elementary (CET-6, IELTS 4 X 6.5 in all four sections; capable of business communication in Australian working environment)
+·  Certifications:  National Computer Rank Examination Level 2
+·  Technical Skills: C++ / C# / JavaScript
+
+
+SelfEvaluation & Core Strengths
+· Comprehensive technical background: With solid capabilities in information system development, operation and maintenance, hardware integration, combined with practical experience in physical enterprise management. Able to act as an effective bridge between technical and business departments.
+· International communication ability: 8 years of study and work experience in Australia, adaptable to cross-cultural working environments and able to communicate and collaborate efficiently with foreign colleagues.
+· Project management and problem-solving skills: Early experience in government and university projects cultivated the ability to adapt to various corporate styles. Later experience in commercial management and overseas work honed flexibility in responding to change.
+· Continuous learning and resilience: Quick learner, down-to-earth working attitude, rigorous work style and reliable character.
+
+
+Work Experience
+Academic Affairs Office, Tianjin University of Sport
+Position: Academic System Maintenance (Internship/Recommendation)
+Period: 2005 – 2006
+Referee: Li Dongmei | Tel: +86 13821492896
+· Responsible for daily operation, basic development and maintenance of the academic management information system.
+· Coordinated and solved technical issues encountered by faculty and students during system use.
+
+
+Tianjin Tianzheng Information System Engineering Consulting Co., Ltd.	
+Position: System Operation and Maintenance Engineer
+Period: 2006 – 2008
+Referee: Yang Binglu | Tel: +86 13820048188
+· Responsible for on-site operation and maintenance of the government network and internal office systems (OA system, intranet and internet) of Wuqing District Government, ensuring 7×24-hour stable operation.
+· Participated in the network construction of the “New Rural Cooperative Medical System” (NRCMS) project in Wuqing District starting from 2007.
+· Conducted system monitoring, troubleshooting and daily data backup under Linux (Red Flag OS), accumulating solid experience in underlying system operation and maintenance.
+
+
+Tianjin Yishang Group Friendship Shopping Mall
+Position: Deputy Floor Manager
+Period: 2008 – 2012
+Referee: Cheng Sirui | Tel: +86 13902111810
+· Directly managed a team of more than 260 sales and service staff, including scheduling, performance appraisal, daily training and team building, which effectively improved employee motivation and service quality. 
+Awarded “Excellent Employee” in 2008.
+· Assisted in formulating floor operation strategies and participated in organizing and planning multiple large-scale holiday marketing activities, driving sales growth.
+· In 2010, the Sales Department achieved record-high sales; the group’s total profit reached 100 million RMB in the same year.
+· Effectively handled complaints from high-end customers and various emergencies to maintain the mall’s brand image.
+
+
+Dr Ruby Training College (Sydney, Australia)
+Position: System Operation and Administration Supervisor
+Period: 2012 – 2016
+Referee: Erwin Langer | Tel: +61 414842766
+· As a core IT member, responsible for the R&D, testing, launch and operation and maintenance of the company’s online training system.
+· Responsible for daily bug fixing, feature optimization and server maintenance to ensure stable access for students in Australia and overseas.(System based on Moodle; Web server: IIS; Database: MySQL)
+· Oversaw the entire English-language admissions process,including course consultations, student enrollment, teaching arrangement, examination organization and certificate issuance, integrating online and offline business workflows.
+· Served students from diverse cultural backgrounds(including local Australian,Japanese,Korean,Thai,Malaysian,American and European students), handled complex inquiries and complaints professionally, and improved student satisfaction.
+
+
+Sydney Plaster Construction Company Co., Ltd
+Position: Project Site Manager
+Period: 2016 – 2018
+Referee: Allen Shen Yang | Tel: +61 420615532
+· Responsible for the whole process management of multiple residential and commercial construction projects, including production planning, material tracking, workshop and warehouse coordination, staffing, material procurement and quality acceptance.
+· Led and coordinated mixed teams of 10–15 local Australian and foreign workers to ensure construction safety and technical standards.
+· Solved technical problems and client change requests in complex construction environments to ensure on-time project delivery.
+
+Tianjin Yinjian Taxi Co., Ltd.
+Position: Taxi Driver
+Period: 2019 (actual operation from 2023, excluding pandemic) – Present
+· Since starting as a taxi driver in 2019,daily interaction with different types of passengers every day and handling various situations (route changes, tight schedules, vehicle breakdowns, etc.), which significantly enhanced my stress tolerance, communication skills and time management abilities.
+
+Education Background & Honors
+· Tianjin University of Finance and Economics
+Major: Information Management and Information System
+Bachelor’s Degree | Graduated in 2005
+· Academic Honors:
+Won the second-class scholarship at the university level for many times.
+Awarded as Outstanding Student Leader, Excellent League Member, Advanced Individual in Social Practice.
+Joined the Communist Party of China during university.
+· Australian Qualification: Certificate IV in Australia.
+
+Closing Statement
+Over the past year of engagement with your esteemed company, I have learned that you are an industry leader in highend manufacturing with high technical barriers. You have achieved industrial upgrading and factory expansion in Tianjin, seizing opportunities and challenges in the rapid growth of China’s new energy industry.
+Although my major is not automation or a related field, I have recognized your company’s high requirements for equipment control precision.Therefore, I have started self-studying EPLAN drawing, Beckhoff PLC operation and basic EtherCAT bus technology. I aim to become a professional who understands electrical logic and systems, and can communicate clearly with customers.
+I hope to grow together with your company in the new era and fulfill every task  with a down-to-earth attitude. I understand that everyone in your company must be multiskilled. If I am fortunate enough to join your team, I will follow all work arrangements and work side by side with younger colleagues. If not, I will continue my current work (receiving visitors, coordinating accommodation, etc.), keep improving myself and diligently enhance my relevant abilities. 
+I am eager to contribute and grow together with your company for mutual success.
+Thank you!
+
