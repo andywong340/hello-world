@@ -1,6 +1,2 @@
 ## andy add file 
-black
-1234567890
-# red
-ajdksjaldjfla
-
+feature 分支第二行
